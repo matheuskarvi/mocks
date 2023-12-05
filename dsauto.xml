@@ -1,112 +1,114 @@
 <estoque>
-<veiculo>
-<id>1956319</id>
-<tipoveiculo>Carro</tipoveiculo>
-<zerokm>N</zerokm>
-<placa>GDI-5B83</placa>
-<marca id="14">BMW</marca>
-<modelo id="72">
-<![CDATA[ 320I ]]>
-</modelo>
-<versao id="7605">
-<![CDATA[ 2.0 Sport 16V Turbo Active ]]>
-</versao>
-<tipomotor> </tipomotor>
-<anofabricacao>2018</anofabricacao>
-<anomodelo>2018</anomodelo>
-<cambio id="1">Automático</cambio>
-<km>53500</km>
-<portas>4</portas>
-<cor id="4">Branco</cor>
-<combustivel id="5">Flex</combustivel>
-<carroceria>Sedã</carroceria>
-<preco>R$ 139.890,00</preco>
-<observacao>
-<![CDATA[ ***SALOCAR MULTIMARCAS, A MELHOR OPÇAO DE COMPRA DE SÃO PAULO*** HÁ MAIS DE 35 ANOS NO MERCADO, É RECONHECIDA PELO EXCELENTE ATENDIMENTO, VEÍCULOS COM GARANTIA E PROCEDÊNCIA. APROVAMOS SEU CRÉDITO. ***NOS RESERVAMOS AO DIREITO À POSSÍVEIS ERROS DE DIGITAÇÃO*** ***valor a vista, sem carro na troca*** ]]>
-</observacao>
-<cadastro>19/10/2023 15:13</cadastro>
-<alteracao>04/12/2023 16:42</alteracao>
-<complementos>
-<complemento id="5">IPVA Pago</complemento>
-<complemento id="10">Manual do proprietário</complemento>
-</complementos>
-<opcionais>
-<opcional id="54">Air bag</opcional>
-<opcional id="6">Ar condicionado</opcional>
-<opcional id="7">Ar condicionado digital</opcional>
-<opcional id="8">Ar quente</opcional>
-<opcional id="15">Computador de bordo</opcional>
-<opcional id="18">Desembaçador traseiro</opcional>
-<opcional id="19">Direção elétrica</opcional>
-<opcional id="23">Freios ABS</opcional>
-<opcional id="29">Retrovisores elétricos</opcional>
-<opcional id="30">Rodas de liga leve</opcional>
-<opcional id="71">Start / Stop Engine</opcional>
-<opcional id="36">Travas elétricas</opcional>
-<opcional id="37">Trio elétrico</opcional>
-<opcional id="38">Vidros elétricos</opcional>
-<opcional id="58">Abertura interna da tampa de combustível</opcional>
-<opcional id="59">Abertura interna do porta-malas</opcional>
-<opcional id="1">Air bag do motorista</opcional>
-<opcional id="2">Air bag do passageiro</opcional>
-<opcional id="68">Airbag Cortina</opcional>
-<opcional id="62">Aviso sonoro de faróis acesos</opcional>
-<opcional id="9">Banco com regulagem elétrica</opcional>
-<opcional id="67">Bancos com Isofix</opcional>
-<opcional id="69">Chave Presencial</opcional>
-<opcional id="14">Check control</opcional>
-<opcional id="44">Coluna de direção com regulagem de altura</opcional>
-<opcional id="16">Controle automático de velocidade</opcional>
-<opcional id="17">Controle de tração</opcional>
-<opcional id="22">Faróis de milha</opcional>
-<opcional id="66">Paddle Shift</opcional>
-<opcional id="25">Piloto automático</opcional>
-<opcional id="32">Sensor de estacionamento</opcional>
-</opcionais>
-<acessorios>
-<acessorio id="74">Central Multimídia</acessorio>
-<acessorio id="73">Câmera de Ré</acessorio>
-</acessorios>
-<fotos>
-<foto>https://dsae.s3.amazonaws.com/60849046000101/Fotos/GDI-5B83_01.jpg?u=20231016162049</foto>
-<foto>https://dsae.s3.amazonaws.com/60849046000101/Fotos/GDI-5B83_02.jpg?u=20231016162056</foto>
-<foto>https://dsae.s3.amazonaws.com/60849046000101/Fotos/GDI-5B83_03.jpg?u=20231016162106</foto>
-<foto>https://dsae.s3.amazonaws.com/60849046000101/Fotos/GDI-5B83_04.jpg?u=20231016162108</foto>
-<foto>https://dsae.s3.amazonaws.com/60849046000101/Fotos/GDI-5B83_05.jpg?u=20231016162110</foto>
-<foto>https://dsae.s3.amazonaws.com/60849046000101/Fotos/GDI-5B83_06.jpg?u=20231016162124</foto>
-<foto>https://dsae.s3.amazonaws.com/60849046000101/Fotos/GDI-5B83_07.jpg?u=20231016162147</foto>
-<foto>https://dsae.s3.amazonaws.com/60849046000101/Fotos/GDI-5B83_08.jpg?u=20231016162150</foto>
-<foto>https://dsae.s3.amazonaws.com/60849046000101/Fotos/GDI-5B83_09.jpg?u=20231016162151</foto>
-<foto>https://dsae.s3.amazonaws.com/60849046000101/Fotos/GDI-5B83_10.jpg?u=20231016162153</foto>
-<foto>https://dsae.s3.amazonaws.com/60849046000101/Fotos/GDI-5B83_11.jpg?u=20231016162155</foto>
-<foto>https://dsae.s3.amazonaws.com/60849046000101/Fotos/GDI-5B83_12.jpg?u=20231016162159</foto>
-<foto>https://dsae.s3.amazonaws.com/60849046000101/Fotos/GDI-5B83_13.jpg?u=20231016162201</foto>
-<foto>https://dsae.s3.amazonaws.com/60849046000101/Fotos/GDI-5B83_14.jpg?u=20231016162202</foto>
-</fotos>
-<foto360>
-<exterior> </exterior>
-<interior> </interior>
-</foto360>
-<urlVideo> </urlVideo>
-<loja>
-<id>2642</id>
-<nomefantasia>Karvi - Salocar Multimarcas</nomefantasia>
-<cnpj>60.849.046/0001-01</cnpj>
-<endereco>
-<logradouro>Av. Inajar de Souza</logradouro>
-<numero>627</numero>
-<complemento> </complemento>
-<bairro>Limao</bairro>
-<cidade>Sao Paulo</cidade>
-<uf>SP</uf>
-<cep>02717-000</cep>
-</endereco>
-<contato>
-<nome>William Diniz</nome>
-<email>integra@salocar.com.br</email>
-<telefone>(11) 3932-7200</telefone>
-<fax> </fax>
-<nextel> </nextel>
-<site>http://</site>
-</contato>
-</loja>
+    <veiculo>
+        <id>1956322</id>
+        <tipoveiculo>Carro</tipoveiculo>
+        <zerokm>N</zerokm>
+        <placa>TST-5B83</placa>
+        <marca id="14">BMW</marca>
+        <modelo id="72">
+            <![CDATA[ 320I ]]>
+        </modelo>
+        <versao id="7605">
+            <![CDATA[ 2.0 Sport 16V Turbo Active ]]>
+        </versao>
+        <tipomotor></tipomotor>
+        <anofabricacao>2018</anofabricacao>
+        <anomodelo>2018</anomodelo>
+        <cambio id="1">Automático</cambio>
+        <km>19500</km>
+        <portas>4</portas>
+        <cor id="4">Branco</cor>
+        <combustivel id="5">Flex</combustivel>
+        <carroceria>Sedã</carroceria>
+        <preco>R$ 839.890,00</preco>
+        <observacao>
+            <![CDATA[ *** A MELHOR OPÇAO DE COMPRA DE SÃO PAULO*** HÁ MAIS DE 35 ANOS NO MERCADO, É RECONHECIDA PELO EXCELENTE ATENDIMENTO, VEÍCULOS COM GARANTIA E PROCEDÊNCIA. APROVAMOS SEU CRÉDITO. ***NOS RESERVAMOS AO DIREITO À POSSÍVEIS ERROS DE DIGITAÇÃO*** ***valor a vista, sem carro na troca*** ]]>
+        </observacao>
+        <cadastro>19/10/2023 15:13</cadastro>
+        <alteracao>04/12/2023 16:42</alteracao>
+        <complementos>
+            <complemento id="5">IPVA Pago</complemento>
+            <complemento id="10">Manual do proprietário</complemento>
+        </complementos>
+        <opcionais>
+            <opcional id="54">Air bag</opcional>
+            <opcional id="6">Ar condicionado</opcional>
+            <opcional id="7">Ar condicionado digital</opcional>
+            <opcional id="8">Ar quente</opcional>
+            <opcional id="15">Computador de bordo</opcional>
+            <opcional id="18">Desembaçador traseiro</opcional>
+            <opcional id="19">Direção elétrica</opcional>
+            <opcional id="23">Freios ABS</opcional>
+            <opcional id="29">Retrovisores elétricos</opcional>
+            <opcional id="30">Rodas de liga leve</opcional>
+            <opcional id="71">Start / Stop Engine</opcional>
+            <opcional id="36">Travas elétricas</opcional>
+            <opcional id="37">Trio elétrico</opcional>
+            <opcional id="38">Vidros elétricos</opcional>
+            <opcional id="58">Abertura interna da tampa de combustível</opcional>
+            <opcional id="59">Abertura interna do porta-malas</opcional>
+            <opcional id="1">Air bag do motorista</opcional>
+            <opcional id="2">Air bag do passageiro</opcional>
+            <opcional id="68">Airbag Cortina</opcional>
+            <opcional id="62">Aviso sonoro de faróis acesos</opcional>
+            <opcional id="9">Banco com regulagem elétrica</opcional>
+            <opcional id="67">Bancos com Isofix</opcional>
+            <opcional id="69">Chave Presencial</opcional>
+            <opcional id="14">Check control</opcional>
+            <opcional id="44">Coluna de direção com regulagem de altura</opcional>
+            <opcional id="16">Controle automático de velocidade</opcional>
+            <opcional id="17">Controle de tração</opcional>
+            <opcional id="22">Faróis de milha</opcional>
+            <opcional id="66">Paddle Shift</opcional>
+            <opcional id="25">Piloto automático</opcional>
+            <opcional id="32">Sensor de estacionamento</opcional>
+        </opcionais>
+        <acessorios>
+            <acessorio id="74">Central Multimídia</acessorio>
+            <acessorio id="73">Câmera de Ré</acessorio>
+        </acessorios>
+        <fotos>
+            <foto>https://dsae.s3.amazonaws.com/60849046000101/Fotos/GDI-5B83_01.jpg?u=20231016162049</foto>
+            <foto>https://dsae.s3.amazonaws.com/60849046000101/Fotos/GDI-5B83_02.jpg?u=20231016162056</foto>
+            <foto>https://dsae.s3.amazonaws.com/60849046000101/Fotos/GDI-5B83_03.jpg?u=20231016162106</foto>
+            <foto>https://dsae.s3.amazonaws.com/60849046000101/Fotos/GDI-5B83_04.jpg?u=20231016162108</foto>
+            <foto>https://dsae.s3.amazonaws.com/60849046000101/Fotos/GDI-5B83_05.jpg?u=20231016162110</foto>
+            <foto>https://dsae.s3.amazonaws.com/60849046000101/Fotos/GDI-5B83_06.jpg?u=20231016162124</foto>
+            <foto>https://dsae.s3.amazonaws.com/60849046000101/Fotos/GDI-5B83_07.jpg?u=20231016162147</foto>
+            <foto>https://dsae.s3.amazonaws.com/60849046000101/Fotos/GDI-5B83_08.jpg?u=20231016162150</foto>
+            <foto>https://dsae.s3.amazonaws.com/60849046000101/Fotos/GDI-5B83_09.jpg?u=20231016162151</foto>
+            <foto>https://dsae.s3.amazonaws.com/60849046000101/Fotos/GDI-5B83_10.jpg?u=20231016162153</foto>
+            <foto>https://dsae.s3.amazonaws.com/60849046000101/Fotos/GDI-5B83_11.jpg?u=20231016162155</foto>
+            <foto>https://dsae.s3.amazonaws.com/60849046000101/Fotos/GDI-5B83_12.jpg?u=20231016162159</foto>
+            <foto>https://dsae.s3.amazonaws.com/60849046000101/Fotos/GDI-5B83_13.jpg?u=20231016162201</foto>
+            <foto>https://dsae.s3.amazonaws.com/60849046000101/Fotos/GDI-5B83_14.jpg?u=20231016162202</foto>
+        </fotos>
+        <foto360>
+            <exterior></exterior>
+            <interior></interior>
+        </foto360>
+        <urlVideo></urlVideo>
+        <loja>
+            <id>2642</id>
+            <nomefantasia>Karvi</nomefantasia>
+            <cnpj>00.849.046/0001-01</cnpj>
+            <endereco>
+                <logradouro>Av. Inajar de Souza</logradouro>
+                <numero>27</numero>
+                <complemento></complemento>
+                <bairro>Limao</bairro>
+                <cidade>Sao Paulo</cidade>
+                <uf>SP</uf>
+                <cep>02717-000</cep>
+            </endereco>
+            <contato>
+                <nome>Matheus</nome>
+                <email>integra@sKARVI.com.br</email>
+                <telefone>(11) 3932-7200</telefone>
+                <fax></fax>
+                <nextel></nextel>
+                <site>http://</site>
+            </contato>
+        </loja>
+    </veiculo>
+</estoque>
